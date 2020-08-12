@@ -1,0 +1,36 @@
+{
+  "list": [
+    {
+      "id": "1001",
+      "name": "win-host",
+      "operatingSystem": "Windows",
+      "ipAddress": "192.168.10.1",
+      "softwareList": [
+        {
+          "name": "7-zip",
+          "version": "10.0"
+        },
+        {
+          "name": "Visual Studio",
+          "version": "19.10.1"
+        }
+      ]
+    },
+    {
+      "id": "1002",
+      "name": "lin-host",
+      "operatingSystem": "Ubuntu",
+      "ipAddress": "192.168.10.5",
+      "softwareList": [
+        {
+          "name": "curl",
+          "version": "7.19.4"
+        },
+        {
+          "name": "python",
+          "version": "2.15.7"
+        }
+      ]
+    }
+  ]
+}

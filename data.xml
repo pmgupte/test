@@ -1,0 +1,36 @@
+<response>
+	<list>
+		<record>
+			<id>1001</id>
+			<name>win-host</name>
+			<operatingSystem>Windows</operatingSystem>
+			<ipAddress>192.168.10.1</ipAddress>
+			<softwareList>
+				<software>
+					<name>7-zip</name>
+					<version>10.0</version>
+				</software>
+				<software>
+					<name>Visual Studio</name>
+					<version>19.10.1</version>
+				</software>
+			</softwareList>
+		</record>
+		<record>
+			<id>1002</id>
+			<name>lin-host</name>
+			<operatingSystem>Ubuntu</operatingSystem>
+			<ipAddress>192.168.10.5</ipAddress>
+			<softwareList>
+				<software>
+					<name>curl</name>
+					<version>7.19.4</version>
+				</software>
+				<software>
+					<name>python</name>
+					<version>2.15.7</version>
+				</software>
+			</softwareList>
+		</record>
+	</list>
+</response>
